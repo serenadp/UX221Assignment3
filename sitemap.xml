@@ -32,6 +32,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/football/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/basketball/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/soccerball/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
